@@ -8,7 +8,7 @@ This repository contains all of my assignments for the **Panaverse course** unde
 
 | # | Project Title               | Description                                     | Live App |
 |---|-----------------------------|-------------------------------------------------|----------|
-| 1 | [Unit Converter](./Project-01-Unit-Converter) | Convert values between multiple length units using Python + Streamlit. | [View App](https://your-username-project-01-unit-converter.streamlit.app) |
+| 1 | [Unit Converter](./Project_01_Unit_Convertor) | Convert values between multiple length units using Python + Streamlit. | [View App](https://waliii31-sir-zia-python-projec-project01unitconvertorapp-xgycw2.streamlit.app/) |
 | 2 | Coming Soon                 | Placeholder for future projects.               | -        |
 
 ---

@@ -15,8 +15,7 @@ A user-friendly web app to convert between various length units using Python and
 ---
 
 ## 📷 Screenshot
-
-![Unit Converter Screenshot](../screenshots/unit_converter.png)
+![Unit Converter Screenshot](image.png)
 
 ---
 
