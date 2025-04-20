@@ -1,0 +1,10 @@
+The Great Gatsby,F. Scott Fitzgerald,1925,Fiction,Read
+1984,George Orwell,1949,Dystopian,Read
+To Kill a Mockingbird,Harper Lee,1960,Classic,Unread
+The Catcher in the Rye,J.D. Salinger,1951,Coming-of-Age,Read
+Pride and Prejudice,Jane Austen,1813,Romance,Unread
+The Hobbit,J.R.R. Tolkien,1937,Fantasy,Read
+Brave New World,Aldous Huxley,1932,Science Fiction,Unread
+The Da Vinci Code,Dan Brown,2003,Thriller,Read
+Moby-Dick,Herman Melville,1851,Adventure,Unread
+The Alchemist,Paulo Coelho,1988,Philosophical,Read
